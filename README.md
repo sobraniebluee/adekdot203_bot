@@ -1,31 +1,26 @@
  
-@anekdot203_bot - Генерирует случайный анекдот из 5 категорий  
+<b><a href="">@anekdot203_bot</a></b> - Генерирует случайный анекдот из 5 категорий  
 
-Все анекдоты взяты с сайты - https://anekdotovstreet.com/nacionalnosti/
+Все анекдоты взяты с <b>сайта</b> - https://anekdotovstreet.com/nacionalnosti/
 
-КОМАНДЫ БОТА:
+<b>КОМАНДЫ БОТА:</b>
 
- Перечень всех комманд: \n\r 
- /anekdotHohol - Генерирует Анекдоты про хохлов и москалей \n\r 
- /anekdotBelorusy - Генерирует Анекдоты про белорусов, Беларусь \n\r 
- /anekdotChukcha - Анекдоты про чукчу \n\r 
- /anekdotCygane - Генерирует Анекдоты про цыган \n\r 
- /anekdotEvrei - Генерирует Анекдоты про евреев, еврейские \n\r 
+ Перечень всех комманд: <br>
+ <b>/anekdotHohol</b> - Генерирует Анекдоты про хохлов и москалей<br>
+ <b>/anekdotBelorusy</b> - Генерирует Анекдоты про белорусов, Беларусь <br>
+ <b>/anekdotChukcha</b> - Анекдоты про чукчу <br>
+ <b>/anekdotCygane</b> - Генерирует Анекдоты про цыган <br>
+ <b>/anekdotEvrei</b> - Генерирует Анекдоты про евреев, еврейские <br> 
  
-anekdotevrei - Генерирует Анекдоты про евреев, еврейские 
-anekdotbelorusy - Генерирует Анекдоты про белорусов
-anekdotcygane - Генерирует Анекдоты про цыган 
-anekdotchukcha - Анекдоты про чукчу 
-anekdothohol - Генерирует Анекдоты про хохлов и москалей 
-help - Выведет все доступные команды
 
-Перед использованием установите все зависимости:
 
-"dependencies" : {
-    "requests" : "pip install requests",
-    "bs4" : "pip install beautifulsoup4",
-    "random" : "pip install random2"
-    "telebot" : "pip install pyTelegramBotAPI"
-}
+<b>Перед использованием установите все зависимости:</b><br>
+
+{<br>
+   <b>"requests"</b> : <b>"pip install requests"</b>,<br>
+    <b>"bs4"</b> : <b>"pip install beautifulsoup4"</b>,<br>
+    <b>"random"</b> : <b>"pip install random2"</b>,<br>
+    <b>"telebot"</b> : <b>"pip install pyTelegramBotAPI"</b>,<br>
+}<br>
 
 Приятных СмЕшнявок :)
