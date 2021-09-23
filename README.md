@@ -1,5 +1,5 @@
  
-<b><a href="https://web.telegram.org/z/#2025784427">@anekdot203_bot</a></b> - Генерирует случайный анекдот из 5 категорий  
+<b><a target="_blank" href="https://web.telegram.org/z/#2025784427">@anekdot203_bot</a></b> - Генерирует случайный анекдот из 5 категорий  
 
 Все анекдоты взяты с <b>сайта</b> - https://anekdotovstreet.com/nacionalnosti/
 
